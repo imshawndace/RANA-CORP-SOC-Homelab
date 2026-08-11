@@ -117,4 +117,3 @@ network.
 - **Detection engineering** — validating that red team activity generates the expected alerts/artifacts in Blue Team tooling
 - **Documentation** — writing this repo the way an analyst documents environments and findings for a team
 
----
